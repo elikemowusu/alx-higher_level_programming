@@ -1,7 +1,7 @@
  # 0x00. Python - Hello, World
- - - - - 
+
  ## Description
- - - - - 
+ 
  *  Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
  * Who created Python
  * Who is Guido van Rossum
