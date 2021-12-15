@@ -94,4 +94,5 @@ class Rectangle:
     def square(cls, size=0):
         """ Alternate constructor """
         return cls(size, size)
+
     
